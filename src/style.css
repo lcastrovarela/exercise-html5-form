@@ -1,1 +1,48 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#myHeader {
+  background: #f8f4f3;
+  padding: 10px 0px 10px 0px;
+  border-style: solid;
+  border-color: lightgray;
+}
+.card-footer {
+  background: #f8f4f3;
+  height: 70px;
+  border-style: solid;
+  border-color: lightgray;
+}
+
+#Contenedor {
+  border-style: solid;
+  border-color: lightgray;
+}
+#boton {
+  margin-left: 10px;
+  padding: 10px;
+}
+span {
+  font-size: 0.8rem;
+  margin-bottom: 20px;
+}
+.col-md-6 {
+  margin-top: 10px;
+}
+.col-md-5 {
+  margin-top: 10px;
+}
+.col-md-4 {
+  margin-top: 10px;
+}
+.col-md-3 {
+  margin-top: 10px;
+}
+
+#creditcards {
+  background: darkgrey;
+  padding: 10px;
+  border-radius: 0.25rem;
+}
+#estadoUSA {
+  line-height: 30px;
+}
